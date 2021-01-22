@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Great+Vibes|Josefin+Sans|Oswald|Patua+One|Satisfy&display=swap');
-
-
 h1{ font-family: 'Patua One', cursive;}
 body {
     width: 100%;
@@ -13,8 +11,7 @@ body {
 }
 .topnav {
     overflow: hidden;
-    background-color: #333;
-    border:1px solid red;
+    background-color: #1B1B1B;
   }
 .topnav a {
     float: right;
@@ -32,12 +29,10 @@ body {
     background-color: #0078d7;
     color: white;
 }
-  
 #outerwrapper{
     text-align: center;
     width: 100%;
 }
-
 .searchbox{
     position: absolute;
     display: inline-block;
@@ -49,11 +44,11 @@ body {
     border-radius:10px;
     background-color:#dee0e093;
     z-index: 1;
-    border:.5px solid #333
+    border:.5px solid #1B1B1B
 }
 .searchbox:hover{
     background-color: #ffffff;
-    border:.5px solid #333;
+    border:.5px solid #1B1B1B;
 }
 .coverpic{
     object-fit: cover;
@@ -132,7 +127,6 @@ body {
 .modal-content {
     width: 100%;
 }
-
 #label{
     margin-top:1%;
     font-size: 26px;
@@ -160,7 +154,7 @@ body {
     height:30px;
     /* padding:1% 0% 2.5% 0%; */
     margin-bottom: 2%;
-    background: #333;
+    background:#1B1B1B;
 }
 .title h2{
     font-family: fantasy;
@@ -194,7 +188,7 @@ body {
     text-align: center;
     background-color: #0078d7;
     width: 100%;
-    border: solid 1px #333;
+    border: solid 1px #1B1B1B;
 }
 .profilename h1{
     text-transform: uppercase;
@@ -215,7 +209,7 @@ body {
     }
 .profilename span{
     font-weight: 1000;
-    color: #333;
+    color: #1B1B1B;
     letter-spacing: 1px;
     margin: 5px;
     font-family: 'Amatic SC';
@@ -232,19 +226,19 @@ body {
     background-color: whitesmoke;
     margin: 10px 0px 10px 0px;
     text-decoration: none;
-    color:#333;
+    color:#1B1B1B;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
     /* border:1px solid #0078d7; */
     border-radius: 10px;
 }
 .contentleft a:hover{
-    background-color: #333;
+    background-color: #1B1B1B;
     color: aliceblue;
 }
 .quotes{
     padding:3% 0% 3% 0%;
-    background-color: #333;
+    background-color: #1B1B1B;
     margin-top:30px; 
     margin-bottom:30px; 
 }
@@ -260,7 +254,7 @@ body {
     border:1px solid rgb(0, 195, 255);
     border-radius: 8px;
     color:rgb(0, 195, 255);
-    background-color: #333;
+    background-color: #1B1B1B;
     text-decoration: none;
     height:2rem;
     padding: 1%;
@@ -367,7 +361,7 @@ body {
         height:25px;
         padding:1% 0% 3% 0%;
         margin-bottom: 2%;
-        background: #333;
+        background: #1B1B1B;
     }
     #bottombody{
         margin-top: 5%;

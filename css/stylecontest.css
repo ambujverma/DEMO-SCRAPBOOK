@@ -69,8 +69,8 @@ body {
     width: 100%;
     position: fixed;
     height:35px;
-    border: 1px solid red;
-    background-color: #333;
+    /* border: 1px solid red; */
+    background-color: #1B1B1B;
     text-align:center;
     padding:2px 0 8px 0;
     z-index: 1;
@@ -88,7 +88,7 @@ body {
     display:flex;
     /* height:400px; */
     object-fit: cover;
-    background-color: #333; 
+    background-color: #1B1B1B; 
     
 }
 .pic{
@@ -142,7 +142,7 @@ body {
     border:1px solid rgb(0, 195, 255);
     display: inline-block;
     color: rgb(0, 195, 255);
-    background: #333;
+    background: #1B1B1B;
     border-radius:6px;
     margin:4%;
     cursor: pointer;
