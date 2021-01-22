@@ -14,7 +14,7 @@ body {
 .topnav {
     overflow: hidden;
     background-color: #333;
-    border: 2px solid red;
+    border:1px solid red;
   }
 .topnav a {
     float: right;
