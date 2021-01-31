@@ -236,6 +236,18 @@ padding: 0;
   color: white; 
   margin:5px;
 }
+#details-box>a{
+  text-decoration: none;
+  color: white;
+  border: rgb(9, 95, 42) solid 1px;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: black;
+}
+#details-box>a:hover{
+  border: white solid 1px;
+  background-color: rgb(9, 95, 42);
+}
 @media (max-width:1200px){
   .container2{
     columns: 3;
@@ -280,7 +292,7 @@ padding: 0;
     text-align:center;
     width:400px;
     top:30%;
-    height:650px;
+    height:610px;
     margin-top:80px;
     margin-bottom:5px;
   }
