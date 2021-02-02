@@ -32,7 +32,7 @@ padding: 0;
     box-shadow: 0 0 0 0 rgb(9, 95, 42), 0 0 4px 0 rgb(9, 95, 42);
 }
 .header2>ul>input:hover{
-    background-color: rgb(49, 47, 47);
+    background-color: #fff;
 }
 .header2>ul>li{
     display: inline-block;
